@@ -1,2 +1,1 @@
-# uiuas
-My Uiua functions
+Green's repo of [Uiua](uiua.org) functions that I created.
