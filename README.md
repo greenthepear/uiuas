@@ -1,1 +1,1 @@
-Green's repo of [Uiua](uiua.org) functions.
+Green's repo of [Uiua](https://www.uiua.org/) functions.
