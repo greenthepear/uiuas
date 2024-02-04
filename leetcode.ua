@@ -9,6 +9,10 @@
 
 # leetcode 7. reverse integer
 ×⋕:¯-1×2:⇌↘:⊙.°⋕:<0. ¯1233
+# improved version with ⍜
+⋕⍜(↘|∘⇌)⊙°⋕<0.
+# more ⍜!
+⍜(⊙°⋕|⍜(↘|∘⇌))<0.
 
 # leetcode 66. plus one
 ∵⋕¤°⋕+1/+×⇌ⁿ:10⇡ ⧻ . [4 3 2 1]
