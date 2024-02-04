@@ -5,7 +5,7 @@
 +∩(/+×ⁿ:10⇡⧻.) [2 4 3] [5 6 4]
 
 # leetcode 3. median of two sorted arrays
-÷2/+⊏⊂⌈:⌊.÷2-1⧻.⊏⍏.⊂ [1 2] [3 4]
+÷2/+⊏⊂⊃⌊⌈÷2-1⧻.⊏⍏.⊂ [1 2] [3 4]
 
 # leetcode 7. reverse integer
 ×⋕:¯-1×2:⇌↘:⊙.°⋕:<0. ¯1233
@@ -25,3 +25,6 @@
 ⇌⋯+∩(/+×∵⋕:⇌ⁿ:2⇡⧻.°⋕) 1001 10
 # might as well fully use ⋯
 ⇌⋯+∩(°⋯⇌∵⋕°⋕) 1010 1011
+
+# leetcode 2644. find the maximum divisibility score
+⊏⊢⍖≡/+=0⊞◿, [4 7 9 3 9] [5 2 3]
