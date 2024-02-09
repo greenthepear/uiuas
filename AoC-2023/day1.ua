@@ -1,6 +1,4 @@
-# Day 1
 # Part 1
-
 {"1abc2"
  "pqr3stu8vwx"
  "a1b2c3d4e5f"
